@@ -1,4 +1,4 @@
-package org.jabref.benchmarks;
+package org.jabref.benchmarks; // Benchmark class
 
 import java.io.IOException;
 import java.io.StringReader;
